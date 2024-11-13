@@ -16,4 +16,4 @@ Instrucciones basica para abrir el Sitio Web:
 2 - Abre el archivo index.html en un navegador para ver el contenido de la página web.
 
 
-https://github.com/DrakonianDAM/Exercise_Unit5_website.git
+https://drakoniandam.github.io/Exercise_Unit5_website
